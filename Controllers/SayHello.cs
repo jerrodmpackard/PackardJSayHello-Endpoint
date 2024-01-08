@@ -12,7 +12,6 @@ public class SayHello : ControllerBase
 
     public string AddName(string newName)
     {
-        string userName = newName;
-        return $"Hello, {userName}. Nice to meet you!";
+        return $"Hello, {newName}. Nice to meet you!";
     }
 }
