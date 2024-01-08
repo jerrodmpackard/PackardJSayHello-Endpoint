@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7aI8UGUshR6EvPFS+E31qAAcxNOoxxZHCkzPJ02qZCA=",
+  "Source": "PackardJSayHello-Endpoint",
+  "BasePath": "_content/PackardJSayHello-Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
